@@ -14,8 +14,8 @@ To write a python program to find minimum steps to reach to specific cell in min
 ## Program:
 ```
 Program to implement to find minimum steps to reach to specific cell in minimum moves by knight.
-Developed by: R Guruprasad
-Register Number: 212222240033
+Developed by: Vinush CV
+Register Number: 212222230176
 ```
 ```python
 from collections import deque
